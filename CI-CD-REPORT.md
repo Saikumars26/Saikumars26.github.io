@@ -7,7 +7,7 @@
 - **Live URL:** https://Saikumars26.github.io
 
 ## Deployment History
-Check the Actions tab for complete deployment history.
+
 
 ### Iteration Summary
 
@@ -44,7 +44,7 @@ Check the Actions tab for complete deployment history.
 ## CI/CD Understanding
 
 ### What is CI/CD?
-CI/CD - Continuous Integration/Continuous Deployment-- automates integrating code changes and deploying them to production. Each push to the `main` branch triggers a repeatable build and deployment, reducing manual work and preventing errors.
+CI/CD stands for Continuous Integration and Continuous Deployment. It’s a process that automatically checks, builds, and deploys your code whenever changes are made. Instead of manually uploading updates, every time you push code to the main branch, the system runs the build and deployment steps for you. This saves time, reduces mistakes, and keeps the website or application up to date automatically.
 
 ### Benefits Observed
 1. **Automatic deployment** on every push to `main`.
@@ -58,5 +58,9 @@ CI/CD - Continuous Integration/Continuous Deployment-- automates integrating cod
 - **Network Error:** Encountered “Could not resolve host: github.com” — fixed by retrying after checking Wi-Fi  connection.
 
 ### Real-World Application
-On larger teams, CI/CD ensures consistent, automated releases. Developers work on feature branches, open PRs for review, and merges trigger automated builds/tests/deployments. This shortens feedback cycles, maintains quality, supports quick rollbacks using commit history, and enables multiple contributors to deploy safely and reliably.
+On larger software teams, CI/CD helps everyone work together more smoothly. When developers create new features, they push their changes to separate branches and open pull requests for review. Once those changes are approved and merged, the system automatically builds and deploys the new version of the project. This process saves time, reduces human error, and makes it easy to find and fix issues quickly. It also ensures that every team member’s work goes live safely and consistently.
 
+## Screenshots
+- [ ] Initial deployment
+- [ ] GitHub Actions tab showing successful builds
+- [ ] Live website after final iteration
