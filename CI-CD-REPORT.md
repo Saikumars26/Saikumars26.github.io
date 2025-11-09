@@ -61,6 +61,9 @@ CI/CD stands for Continuous Integration and Continuous Deployment. It’s a proc
 On larger software teams, CI/CD helps everyone work together more smoothly. When developers create new features, they push their changes to separate branches and open pull requests for review. Once those changes are approved and merged, the system automatically builds and deploys the new version of the project. This process saves time, reduces human error, and makes it easy to find and fix issues quickly. It also ensures that every team member’s work goes live safely and consistently.
 
 ## Screenshots
-- [ ] Initial deployment
-- [ ] GitHub Actions tab showing successful builds
-- [ ] Live website after final iteration
+- [ ] Initial deployment <img width="1440" height="900" alt="Screenshot 2025-11-06 at 7 16 07 PM" src="https://github.com/user-attachments/assets/96c18bec-4c73-4612-8e80-7b1d0a96f6f4" />
+
+- [ ] GitHub Actions tab showing successful builds <img width="1440" height="900" alt="Screenshot 2025-11-08 at 1 06 30 AM" src="https://github.com/user-attachments/assets/c5a9cdc9-d1a1-4165-982a-4d0d13921009" />
+
+- [ ] Live website after final iteration <img width="1440" height="900" alt="Screenshot 2025-11-08 at 1 07 45 AM" src="https://github.com/user-attachments/assets/b622a2c6-9acc-4a54-be38-a3d85cbf9b68" />
+
